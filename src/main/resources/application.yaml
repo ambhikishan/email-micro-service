@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: javamail
+server:
+  port: 8081
