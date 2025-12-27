@@ -3,3 +3,4 @@ spring:
     name: javamail
 server:
   port: 8081
+
