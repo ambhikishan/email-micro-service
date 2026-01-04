@@ -93,7 +93,7 @@ public class HTML {
                             <table class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
                                 <tr>
                                     <td align="center" style="background-color: #007bff; padding: 30px;">
-                                        <h1 style="color: #ffffff; margin: 0; font-size: 24px;">{{brand_name}}</h1>
+                                        <h1 style="color: #ffffff; margin: 0; font-size: 24px;">ChatApp</h1>
                                     </td>
                                 </tr>
                                 <tr>
@@ -114,13 +114,13 @@ public class HTML {
                                         </p>
                                         <p style="color: #999999; font-size: 12px; line-height: 1.5; margin-top: 30px; border-top: 1px solid #eeeeee; padding-top: 20px;">
                                             If the button above doesn't work, paste this link into your browser:<br>
-                                            <a href="{{verification_link}}" style="color: #007bff;">{{verification_link}}</a>
+                                            
                                         </p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td align="center" style="background-color: #f8f9fa; padding: 20px; color: #999999; font-size: 12px;">
-                                        &copy; 2024 {{brand_name}}. All rights reserved.
+                                        &copy; 2026 ChatApp. All rights reserved.
                                     </td>
                                 </tr>
                             </table>
