@@ -27,7 +27,7 @@ public class JavaMailService {
 
     // Your "App Password". See README.md for details.
     // DO NOT use your regular account password.
-    private static final String PASSWORD = "yeoi jxtb cxex knhv";
+    private static final String PASSWORD = "odsf zrgf tfpz bmhg";
 
     public void sendMail(DTO otp) {
         Properties properties = new Properties();
