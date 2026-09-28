@@ -3,14 +3,13 @@ package com.javamail;
 import jakarta.mail.*;
 import jakarta.mail.internet.InternetAddress;
 import jakarta.mail.internet.MimeMessage;
-import org.springframework.stereotype.Service;
+
 
 import java.util.Properties;
 
 import static com.javamail.HTML.accountCreationHtml;
 import static com.javamail.HTML.generateOtpEmailHtml;
 
-@Service
 public class JavaMailService {
     // --- START OF CONFIGURATION ---
     // Update these fields with your email provider's details and your credentials
@@ -61,6 +60,7 @@ public class JavaMailService {
         }
 
     }
+
     public void sendAccountCreationMail(String email)
     {
         Properties properties = new Properties();
